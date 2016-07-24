@@ -1,0 +1,96 @@
+#vol,#state{
+	width:300px;
+	height: 10px;
+	border: 1px solid #000;
+	position: relative;
+	margin: 20px;
+}
+#vol-position,#state-position{
+	position: absolute;
+	/* right:-3px; */
+	top:-3px; 
+	width:16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #000;
+}
+#vol-position{
+left:292px;
+}
+#state-position{
+	left: -8px;
+	background: green;
+}
+#mute{
+	width:20px;
+	height:20px;
+	border: 1px solid #000;
+	background: #fe3;
+	background: #af2;
+}
+/* #mute .on{
+	
+} */
+#mute.off{
+	background: #ccc;
+}
+#tips{
+	position: absolute;
+	border: 1px solid #000;
+	top:15px;
+	padding: 0 12px;
+	 display: none; 
+}
+#qiege{
+	display: inline-block;
+	padding: 20px;
+	border: 1px solid #000;
+}
+#vol,#state{
+	width:300px;
+	height: 10px;
+	border: 1px solid #000;
+	position: relative;
+	margin: 20px;
+}
+#vol-position,#state-position{
+	position: absolute;
+	/* right:-3px; */
+	top:-3px; 
+	width:16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #000;
+}
+#vol-position{
+left:292px;
+}
+#state-position{
+	left: -8px;
+	background: green;
+}
+#mute{
+	width:20px;
+	height:20px;
+	border: 1px solid #000;
+	background: #fe3;
+	background: #af2;
+}
+/* #mute .on{
+	
+} */
+#mute.off{
+	background: #ccc;
+}
+#tips{
+	position: absolute;
+	border: 1px solid #000;
+	top:15px;
+	padding: 0 12px;
+	 display: none; 
+}
+#qiege{
+	display: inline-block;
+	padding: 20px;
+	border: 1px solid #000;
+}
